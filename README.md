@@ -1,1 +1,1 @@
-# stochastic-Compressor
+# stochastic-compressor
